@@ -61,7 +61,7 @@ cacheSolve <- function(x, ...) {
 ## [1,]    1    0    0
 ## [2,]    0    1    0
 ## [3,]    0    0    1
-## > cacheeSolve(m)
+## > cacheSolve(m)
 ## getting cached data
 ## [,1] [,2] [,3]
 ## [1,]    1    0    0
